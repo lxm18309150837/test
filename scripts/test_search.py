@@ -27,3 +27,6 @@ class TestSearch():
         self.search.page_input(text)
         # 点击返回
         self.search.page_click()
+        
+    def test_o1(self):
+        print(hahaahah)
