@@ -30,3 +30,6 @@ class TestSearch():
         
     def test_o1(self):
         print("hahaahah")
+        
+    def test_02(self):
+        print("mmmm")
