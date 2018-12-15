@@ -29,4 +29,4 @@ class TestSearch():
         self.search.page_click()
         
     def test_o1(self):
-        print(hahaahah)
+        print("hahaahah")
